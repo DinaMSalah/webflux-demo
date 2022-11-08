@@ -1,0 +1,10 @@
+/home/afaqy/My-Workspace/webflux-demo/src/main/java/com/example/webfluxdemo/router/RouterConfig.java
+/home/afaqy/My-Workspace/webflux-demo/src/main/java/com/example/webfluxdemo/service/CustomerService.java
+/home/afaqy/My-Workspace/webflux-demo/src/main/java/com/example/webfluxdemo/filter/ExampleHandlerFilterFunction.java
+/home/afaqy/My-Workspace/webflux-demo/src/main/java/com/example/webfluxdemo/dto/Customer.java
+/home/afaqy/My-Workspace/webflux-demo/src/main/java/com/example/webfluxdemo/controller/CustomerController.java
+/home/afaqy/My-Workspace/webflux-demo/src/main/java/com/example/webfluxdemo/repository/CustomerRepository.java
+/home/afaqy/My-Workspace/webflux-demo/src/main/java/com/example/webfluxdemo/handler/CustomerHandler.java
+/home/afaqy/My-Workspace/webflux-demo/src/main/java/com/example/webfluxdemo/handler/CustomerStreamHandler.java
+/home/afaqy/My-Workspace/webflux-demo/src/main/java/com/example/webfluxdemo/repository/CustomerDAO.java
+/home/afaqy/My-Workspace/webflux-demo/src/main/java/com/example/webfluxdemo/WebfluxDemoApplication.java
